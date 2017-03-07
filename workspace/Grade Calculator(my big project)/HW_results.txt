@@ -1,0 +1,14 @@
+Ögrenci No	HW1	HW2	HW3	Quiz1	HW4	HW5	Quiz2	Midterm	HW6	HW7	Quiz3	HW8	HW9	HW10	Final
+
+140709015	100	100	100	100	90	100	100	67	100	100	100	100	100	100	52
+
+
+
+
+
+
+
+
+
+
+

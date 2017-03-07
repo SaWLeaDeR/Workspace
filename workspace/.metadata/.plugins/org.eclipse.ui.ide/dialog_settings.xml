@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\SaWLeaDeR\Downloads\örnek.zip"/>
+		<item value="C:\Users\SaWLeaDeR\workspace"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Ali ihsan\workspace2\reverse"/>
+			<item value="C:\Users\Ali ihsan\workspace2\primenumbers_HW1"/>
+			<item value="C:\Users\Ali ihsan\workspace2\prime number"/>
+			<item value="C:\Users\Ali ihsan\workspace2\MyProject"/>
+			<item value="C:\Users\Ali ihsan\workspace2\Lab9"/>
+			<item value="C:\Users\Ali ihsan\workspace2\lab7"/>
+			<item value="C:\Users\Ali ihsan\workspace2\lab6"/>
+			<item value="C:\Users\Ali ihsan\workspace2\lab5"/>
+			<item value="C:\Users\Ali ihsan\workspace2\lab4"/>
+			<item value="C:\Users\Ali ihsan\workspace2\HW9"/>
+			<item value="C:\Users\Ali ihsan\workspace2\HW8"/>
+			<item value="C:\Users\Ali ihsan\workspace2\HW7"/>
+			<item value="C:\Users\Ali ihsan\workspace2\homework6"/>
+			<item value="C:\Users\Ali ihsan\workspace2\HOMEWORK4"/>
+			<item value="C:\Users\Ali ihsan\workspace2\HOMEWORK3"/>
+			<item value="C:\Users\Ali ihsan\workspace2\HelloWorld"/>
+			<item value="C:\Users\Ali ihsan\workspace2\Fatih.shapes"/>
+			<item value="C:\Users\Ali ihsan\workspace2\denemeler"/>
+			<item value="C:\Users\Ali ihsan\workspace2\Counter"/>
+			<item value="C:\Users\Ali ihsan\workspace2\calısmalar"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.epic.newproject.wizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.epic.newproject"/>
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>
